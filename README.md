@@ -1,2 +1,2 @@
 # Computacion_Cuantica
-Desarrollo de algoritmos en computación cuántica.
+Desarrollo de algoritmos de computación cuántica usando Qiskit.
